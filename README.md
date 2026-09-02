@@ -1,6 +1,6 @@
 # Carpintería [TK-VA] — Proyecto Estudiantil
 
-Proyecto integrador escolar/técnico que simula el diseño y automatización de una carpintería industrial. El equipo aborda cuatro frentes de trabajo:
+Proyecto integrador escolar/técnico que simula el diseño y automatización e instalacion electrica de una carpintería. El equipo aborda cuatro frentes de trabajo:
 
 | Área | Carpeta | Responsable(s) |
 |---|---|---|
