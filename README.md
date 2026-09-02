@@ -1,16 +1,16 @@
-# Carpintería [Nombre de la Empresa] — Proyecto Estudiantil
+# Carpintería [TK-VA] — Proyecto Estudiantil
 
 Proyecto integrador escolar/técnico que simula el diseño y automatización de una carpintería industrial. El equipo aborda cuatro frentes de trabajo:
 
 | Área | Carpeta | Responsable(s) |
 |---|---|---|
-| 🏢 La empresa | [`empresa/`](./empresa) | — |
-| ⚡ Instalación eléctrica | [`instalacion-electrica/`](./instalacion-electrica) | — |
-| 🔌 Tablero eléctrico | [`tablero/`](./tablero) | — |
-| 🧵 Tuberías (canalizaciones) | [`tuberias/`](./tuberias) | — |
-| 🛠️ Modelado 3D de máquina | [`modelado-3d/`](./modelado-3d) | — |
-| 🤖 Automatización de máquinas | [`automatizacion/`](./automatizacion) | — |
-| 💡 Iluminación | [`iluminacion/`](./iluminacion) | — |
+|  La empresa | [`empresa/`](./empresa) | — |
+|  Instalación eléctrica | [`instalacion-electrica/`](./instalacion-electrica) | — |
+|  Tablero eléctrico | [`tablero/`](./tablero) | — |
+|  Tuberías (canalizaciones) | [`tuberias/`](./tuberias) | — |
+|  Modelado 3D de máquina | [`modelado-3d/`](./modelado-3d) | — |
+|  Automatización de máquinas | [`automatizacion/`](./automatizacion) | — |
+|  Iluminación | [`iluminacion/`](./iluminacion) | — |
 
 ## Sobre el proyecto
 
