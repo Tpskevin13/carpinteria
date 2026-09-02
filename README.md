@@ -1,3 +1,15 @@
+<!-- Estado del Proyecto -->
+![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-orange?style=for-the-badge)
+
+<!-- Especialidad y Temática -->
+![Área](https://img.shields.io/badge/Área-Instalación_Eléctrica-FFD700?style=for-the-badge&logo=lightning&logoColor=black)
+![Taller](https://img.shields.io/badge/Proyecto-Carpintería-8B4513?style=for-the-badge)
+
+<!-- Herramientas y Documentación -->
+![AutoCAD](https://img.shields.io/badge/AutoCAD-06A94D?style=for-the-badge&logo=autodesk&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 # Carpintería [TK-VA] — Proyecto Estudiantil
 
 Proyecto integrador escolar/técnico que simula el diseño y automatización e instalacion electrica de una carpintería. El equipo aborda cuatro frentes de trabajo:
