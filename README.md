@@ -54,10 +54,6 @@ carpinteria-proyecto/
     └── referencias/
 ```
 
-## Cómo documentar
-
-Cada carpeta principal tiene su propio `README.md` con una guía de qué subir y cómo nombrarlo. Los archivos pesados o binarios (SolidWorks, PDFs de planos, fotos) van en sus subcarpetas; los `README.md` explican en texto qué contiene cada uno y por qué se tomó cada decisión.
-
 ## Equipo
 
 - Kevin Dibella
