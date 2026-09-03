@@ -8,7 +8,7 @@ Lógica de mando y control de la máquina: arranque directo de un motor trifási
 
 | Archivo | Contenido | Estado |
 |---|---|---|
-| Automatismo.cad` (CADe SIMU) | Esquema de **mando** (circuito de control) y **potencia** (circuito de fuerza) del arranque directo. [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/Automatismo)|  Revisado y correcto |
+| `Automatismo.cad` (CADe SIMU) | Esquema de **mando** (circuito de control) y **potencia** (circuito de fuerza) del arranque directo. [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/Automatismo)|  Revisado y correcto |
 | `topografico_030341.cad` (CADe SIMU) | Vista topográfica: disposición física de los componentes en el tablero |  Pendiente de terminar |
 
 
