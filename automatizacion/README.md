@@ -24,11 +24,15 @@ Lógica de mando y control de la máquina: arranque directo de un motor trifási
 
 Orden de la lógica: protección → paro → marcha con enclavamiento → bobina. Correcto.
 
+[Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/CircuitoDeMando)
+
 ## Circuito de potencia (fuerza)
 
 - **`-Q`** (guardamotor, 3 polos) → **`-K`** (contactos principales del contactor, 3 polos) → motor (**U1, V1, W1, PE**).
 
 El guardamotor es un único dispositivo físico: sus contactos de potencia (3 polos) van en el circuito de fuerza, y su contacto auxiliar NC (`-F`) va en el circuito de mando.
+
+[Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/CircuitoDePotencia)
 
 ## Elementos a documentar
 
