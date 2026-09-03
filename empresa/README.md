@@ -42,4 +42,3 @@ Este proyecto documenta la intervención de TK-VA en una carpintería, cubriendo
 
 
 
-Ver [`../recursos/`](../recursos) — pendiente de diseño.
