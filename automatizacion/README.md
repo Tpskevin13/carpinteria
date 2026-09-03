@@ -1,6 +1,6 @@
 # Automatización de Máquinas
 
-# Automatización de Máquinas
+[![CADe SIMU](https://img.shields.io/badge/CADe_SIMU-Automatismos-0057B7?style=for-the-badge)](https://cade-simu.com/)
 
 Lógica de mando y control de la máquina: arranque directo de un motor trifásico con enclavamiento, mediante contactor comandado por pulsadores de marcha y paro, más protección térmica.
 
@@ -10,8 +10,10 @@ Lógica de mando y control de la máquina: arranque directo de un motor trifási
 |---|---|---|
 | `normal_030338.cad` (CADe SIMU) | Esquema de **mando** (circuito de control) y **potencia** (circuito de fuerza) del arranque directo | ✅ Revisado y correcto |
 | `topografico_030341.cad` (CADe SIMU) | Vista topográfica: disposición física de los componentes en el tablero | 🔄 Pendiente de terminar |
+| `referencia/imagenes/CircutoDeMando.bmp` | Imagen exportada del circuito de mando | ✅ Subida y revisada |
+| `referencia/imagenes/circuitodepotencia.bmp` | Imagen exportada del circuito de potencia | ⚠️ Se subió corrupta (2 bytes) — volver a exportar y subir |
 
-> Los `.cad` son archivos de proyecto de CADe SIMU. Para que cualquiera pueda verlos sin instalar el programa, se exportan también en PDF/PNG (ver `esquemas/`).
+> Los `.cad` son archivos de proyecto de CADe SIMU. Las imágenes exportadas (BMP/PNG) permiten que cualquiera vea el esquema sin instalar el programa.
 
 ## Circuito de mando (control)
 
@@ -29,20 +31,20 @@ Orden de la lógica: protección → paro → marcha con enclavamiento → bobin
 
 El guardamotor es un único dispositivo físico: sus contactos de potencia (3 polos) van en el circuito de fuerza, y su contacto auxiliar NC (`-F`) va en el circuito de mando.
 
-## Pendiente / Notas
-
-- [ ] Terminar la vista topográfica (`topografico_030341.cad`) y verificar que la numeración de bornes coincida con el esquema de mando/potencia.
-- [ ] Exportar ambos archivos a PDF/PNG y subirlos junto con el `.cad` original.
-- [ ] Sugerencia de prolijidad: renombrar `-P` y `-S` en el esquema como "Paro" y "Marcha" explícitamente, para que se entienda sin tener que deducirlo.
-
-## Elementos típicos a documentar
+## Elementos a documentar
 
 - [ ] Contactor (marca/modelo, bobina de qué tensión, contactos auxiliares usados)
 - [ ] Relé térmico / guardamotor (calibrado a qué corriente — sale del cálculo de la instalación eléctrica)
-- [ ] Botón de marcha (normalmente abierto)
-- [ ] Botón de paro (normalmente cerrado)
-- [ ] Seta/hongo de emergencia (normalmente cerrado, enclavamiento mecánico)
-- [ ] Piloto/luz indicadora de máquina encendida (opcional pero suma)
+- [ ] Confirmar tensión de mando (directo a 220V o con transformador a 24V — más seguro)
+- [ ] Definir si el arranque es directo o necesita arranque suave/estrella-triángulo (depende de la potencia del motor)
+
+## Pendiente / Notas
+
+- [ ] Volver a exportar y subir `circuitodepotencia.bmp` (se subió corrupta).
+- [ ] Terminar la vista topográfica (`topografico_030341.cad`) y verificar que la numeración de bornes coincida con el esquema de mando/potencia.
+- [ ] Borrar el archivo suelto `referencia/recursos` (vacío, subido por error).
+- [ ] Sugerencia de prolijidad: renombrar `-P` y `-S` en el esquema como "Paro" y "Marcha" explícitamente.
+- [ ] Release: `[completar tag/versión]`.
 
 
 ## Pendiente / Notas
