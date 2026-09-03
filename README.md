@@ -10,8 +10,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# Carpintería [TK-VA] — Proyecto Estudiantil
-
+# Carpintería [TK-VA] — Proyecto 
 Proyecto integrador escolar/técnico que simula el diseño y automatización e instalacion electrica de una carpintería. El equipo aborda cuatro frentes de trabajo:
 
 | Área | Carpeta | Responsable(s) |
