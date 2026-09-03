@@ -1,6 +1,6 @@
 # TK-VA
 
-![Logo](main/referencias/fotos/logo-TKVK.jpg)
+![Logo TKVK](referencias/fotos/logo-TKVK.jpg)
 
 ## ¿Quiénes somos?
 
