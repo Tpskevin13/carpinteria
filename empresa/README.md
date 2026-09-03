@@ -1,6 +1,6 @@
 # TK-VA
 
-![Logo](carpinteria/referencias/fotos/logo-TKVK.jpg)
+![Logo](main/referencias/fotos/logo-TKVK.jpg)
 
 ## ¿Quiénes somos?
 
