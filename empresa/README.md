@@ -1,5 +1,7 @@
 # TK-VA
 
+![texto alternativo](carpinteria/referencias/fotos/logo-TK VK.jpg)
+
 ## ¿Quiénes somos?
 
 TK-VA es una empresa de servicios técnicos especializada en **instalaciones eléctricas, automatismo y seguridad de máquinas**, además de **mantenimiento de instalaciones y máquinas**. Este repositorio documenta un proyecto estudiantil aplicado a un caso real: una carpintería, donde TK-VA interviene diseñando su instalación eléctrica, el automatismo de una de sus máquinas y su iluminación.
@@ -36,6 +38,6 @@ Este proyecto documenta la intervención de TK-VA en una carpintería, cubriendo
 - **Misión:** [completar]
 - **Visión:** [completar]
 
-## Logo
+
 
 Ver [`../recursos/`](../recursos) — pendiente de diseño.
