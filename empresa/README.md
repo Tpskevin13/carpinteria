@@ -1,17 +1,41 @@
-# La Empresa
+# TK-VA
 
-Presentación de la carpintería sobre la que se basa el proyecto.
+## ¿Quiénes somos?
 
-## Contenido a subir
+TK-VA es una empresa de servicios técnicos especializada en **instalaciones eléctricas, automatismo y seguridad de máquinas**, además de **mantenimiento de instalaciones y máquinas**. Este repositorio documenta un proyecto estudiantil aplicado a un caso real: una carpintería, donde TK-VA interviene diseñando su instalación eléctrica, el automatismo de una de sus máquinas y su iluminación.
 
-- `presentacion.md`: nombre de la empresa, rubro específico (carpintería de obra, muebles, aberturas, etc.), ubicación, tamaño (cantidad de empleados, superficie del taller).
-- Historia breve / cómo surgió (real o ficticia, según si el proyecto es sobre una empresa existente o inventada).
-- Misión, visión (si el trabajo lo pide).
-- Organigrama simple (quién hace qué).
-- Máquinas y herramientas con las que cuenta (listado — de ahí sale cuál es la que se modela y automatiza en `modelado-3d/` y `automatizacion/`).
-- Logo o foto del taller, si tienen (en `recursos/fotos/`).
+## Equipo
 
-## Pendiente / Notas
+| Integrante | Rol en el proyecto |
+|---|---|
+| Kevin Dibella | |
+| Octavio Di Carlantonio | |
+| Lucio Di Carlantonio | |
+| Agustín Duarte | |
 
-- [ ] Definir si la empresa es real (visitada) o un caso ficticio armado para el proyecto.
-- [ ] Completar el listado de máquinas del taller.
+## Rubro y servicios
+
+- Instalaciones eléctricas (industriales/comerciales).
+- Automatismo de máquinas y procesos.
+- Seguridad de máquinas (paradas de emergencia, protecciones, resguardos).
+- Mantenimiento de instalaciones eléctricas y de máquinas.
+
+## El caso de estudio: la carpintería
+
+Este proyecto documenta la intervención de TK-VA en una carpintería, cubriendo:
+
+- Instalación eléctrica del taller (ver [`../instalacion-electrica/`](../instalacion-electrica)).
+- Tablero eléctrico (ver [`../tablero/`](../tablero)).
+- Tuberías/canalizaciones (ver [`../tuberias/`](../tuberias)).
+- Automatismo y seguridad de una de las máquinas del taller (ver [`../automatizacion/`](../automatizacion)).
+- Modelado 3D de esa máquina (ver [`../modelado-3d/`](../modelado-3d)).
+- Iluminación del taller (ver [`../iluminacion/`](../iluminacion)).
+
+## Misión y visión
+
+- **Misión:** [completar]
+- **Visión:** [completar]
+
+## Logo
+
+Ver [`../recursos/`](../recursos) — pendiente de diseño.
