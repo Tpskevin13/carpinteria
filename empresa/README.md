@@ -1,6 +1,6 @@
 # TK-VA
 
-![Logo TKVK](./referencias/fotos/logo-TKVK.jpg)
+![Logo TKVK](https://raw.githubusercontent.com/Tpskevin13/carpinteria/main/referencias/fotos/logo-TKVK.jpg)
 
 ## ¿Quiénes somos?
 
