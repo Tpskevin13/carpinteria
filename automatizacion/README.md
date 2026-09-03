@@ -10,8 +10,7 @@ Lógica de mando y control de la máquina: arranque directo de un motor trifási
 |---|---|---|
 | `normal_030338.cad` (CADe SIMU) | Esquema de **mando** (circuito de control) y **potencia** (circuito de fuerza) del arranque directo | ✅ Revisado y correcto |
 | `topografico_030341.cad` (CADe SIMU) | Vista topográfica: disposición física de los componentes en el tablero | 🔄 Pendiente de terminar |
-| `referencia/imagenes/CircutoDeMando.bmp` | Imagen exportada del circuito de mando | ✅ Subida y revisada |
-| `referencia/imagenes/circuitodepotencia.bmp` | Imagen exportada del circuito de potencia | ⚠️ Se subió corrupta (2 bytes) — volver a exportar y subir |
+
 
 > Los `.cad` son archivos de proyecto de CADe SIMU. Las imágenes exportadas (BMP/PNG) permiten que cualquiera vea el esquema sin instalar el programa.
 
