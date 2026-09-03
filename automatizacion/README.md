@@ -34,23 +34,3 @@ El guardamotor es un único dispositivo físico: sus contactos de potencia (3 po
 
 [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/CircuitoDePotencia)
 
-## Elementos a documentar
-
-- [ ] Contactor (marca/modelo, bobina de qué tensión, contactos auxiliares usados)
-- [ ] Relé térmico / guardamotor (calibrado a qué corriente — sale del cálculo de la instalación eléctrica)
-- [ ] Confirmar tensión de mando (directo a 220V o con transformador a 24V — más seguro)
-- [ ] Definir si el arranque es directo o necesita arranque suave/estrella-triángulo (depende de la potencia del motor)
-
-## Pendiente / Notas
-
-- [ ] Volver a exportar y subir `circuitodepotencia.bmp` (se subió corrupta).
-- [ ] Terminar la vista topográfica (`topografico_030341.cad`) y verificar que la numeración de bornes coincida con el esquema de mando/potencia.
-- [ ] Borrar el archivo suelto `referencia/recursos` (vacío, subido por error).
-- [ ] Sugerencia de prolijidad: renombrar `-P` y `-S` en el esquema como "Paro" y "Marcha" explícitamente.
-- [ ] Release: `[completar tag/versión]`.
-
-
-## Pendiente / Notas
-
-- [ ] Confirmar tensión de mando (directo a 220V o con transformador a 24V — más seguro).
-- [ ] Definir si el arranque es directo o si necesita arranque suave/estrella-triángulo (depende de la potencia del motor, sale de instalación eléctrica).
