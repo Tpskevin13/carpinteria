@@ -24,17 +24,6 @@ TK-VA es una empresa de servicios técnicos especializada en **instalaciones el�
 - Seguridad de máquinas (paradas de emergencia, protecciones, resguardos).
 - Mantenimiento de instalaciones eléctricas y de máquinas.
 
-## El caso de estudio: la carpintería
-
-Este proyecto documenta la intervención de TK-VA en una carpintería, cubriendo:
-
-- Instalación eléctrica del taller (ver [`../instalacion-electrica/`](../instalacion-electrica)).
-- Tablero eléctrico (ver [`../tablero/`](../tablero)).
-- Tuberías/canalizaciones (ver [`../tuberias/`](../tuberias)).
-- Automatismo y seguridad de una de las máquinas del taller (ver [`../automatizacion/`](../automatizacion)).
-- Modelado 3D de esa máquina (ver [`../modelado-3d/`](../modelado-3d)).
-- Iluminación del taller (ver [`../iluminacion/`](../iluminacion)).
-
 ## Misión y visión
 
 - **Misión:** [completar]
