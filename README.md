@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # Carpintería [TK-VA] — Proyecto 
-Proyecto integrador escolar/técnico que simula el diseño y automatización e instalacion electrica de una carpintería. El equipo aborda cuatro frentes de trabajo:
+Proyecto integrador escolar/técnico que simula el diseño y automatización e instalacion electrica de una carpintería. El equipo aborda siete frentes de trabajo:
 
 | Área | Carpeta | Responsable(s) |
 |---|---|---|
@@ -49,9 +49,9 @@ carpinteria-proyecto/
 │   ├── planos/
 │   └── calculos/
 ├── docs/                                # Memoria descriptiva, cronograma, presentación final
-└── recursos/                              # Fotos, normas, fichas técnicas de referencia
+└── referencias/                           # Fotos, normas, fichas técnicas de referencia
     ├── fotos/
-    └── referencias/
+    └── recursos/
 ```
 
 ## Equipo
