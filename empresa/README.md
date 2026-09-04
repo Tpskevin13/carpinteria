@@ -26,8 +26,8 @@ TK-VA es una empresa de servicios técnicos especializada en **instalaciones el�
 
 ## Misión y visión
 
-- **Misión:** [completar]
-- **Visión:** [completar]
+- **Misión:** TK-VA nace como una empresa creada específicamente para este proyecto estudiantil de la carpintería, con el objetivo de aplicar en un caso real los conocimientos de instalaciones eléctricas, automatismo y seguridad de máquinas del equipo.
+- **Visión:** Terminar este proyecto de forma correcta y prolija, convirtiéndolo en una de las mejores entregas posibles, y sentar las bases para que el mismo equipo de integrantes pueda encarar juntos otros proyectos en el futuro.
 
 
 
