@@ -25,7 +25,11 @@ Proyecto integrador escolar/técnico que simula el diseño y automatización e i
 
 ## Sobre el proyecto
 
-[Descripción breve: qué máquinas tiene la carpintería, qué problema resuelve el proyecto, alcance del trabajo.]
+Este proyecto integrador toma como caso de estudio una carpintería, sobre la cual el equipo (actuando como la empresa [`TK-VA`](./empresa)) diseña de punta a punta la parte eléctrica del taller: alimentación general y tablero, iluminación, canalizaciones, y la automatización de una de sus máquinas (sierra circular, cepilladora, sierra sinfín, router CNC u otra, a definir en [`modelado-3d/`](./modelado-3d)) junto con su modelado 3D, sus resguardos y su parada de emergencia.
+
+El trabajo busca resolver, con criterio técnico y normativo, los problemas típicos de un taller de este tipo: máquinas con motores que exigen protecciones y arranques seguros, necesidad de buena iluminación para trabajos de precisión, y una distribución de tablero, cañerías y circuitos que sea segura y ordenada.
+
+El alcance del proyecto es de diseño y documentación técnica (cálculos, planos, esquemas y modelado 3D) y no incluye la ejecución física de la obra: es un trabajo académico pensado para aplicar, sobre un caso concreto, los contenidos de instalaciones eléctricas, automatismo y seguridad de máquinas.
 
 ## Estructura del repositorio
 
