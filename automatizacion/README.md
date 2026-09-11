@@ -34,6 +34,6 @@ Orden de la lógica: protección → paro → marcha con enclavamiento → bobin
 
 El guardamotor es un único dispositivo físico: sus contactos de potencia (3 polos) van en el circuito de fuerza, y su contacto auxiliar NC (`-E`) va en el circuito de mando.
 
-![Foto de referncia.](https://github.com/Tpskevin13/carpinteria/blob/main/referencias/fotos/circuitodepotencia.png)
+![Foto de referncia.](https://github.com/Tpskevin13/carpinteria/blob/main/referencias/fotos/Circuitodepotencia.png)
 
 [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/CircuitoDePotencia)
