@@ -4,12 +4,12 @@
 
 Lógica de mando y control de la máquina: arranque directo de un motor trifásico con enclavamiento, mediante contactor comandado por pulsadores de marcha y paro, más protección térmica.
 
-## Archivos
+## Archivos 
 
 | Archivo | Contenido | Estado |
 |---|---|---|
 | `Automatismo.cad` (CADe SIMU) | Esquema de **mando** (circuito de control) y **potencia** (circuito de fuerza) del arranque directo. [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/Automatismo)|  Revisado y correcto |
-| `topografico_030341.cad` (CADe SIMU) | Vista topográfica: disposición física de los componentes en el tablero |  Pendiente de terminar |
+| `Topografico.cad` (CADe SIMU) | Vista topográfica: disposición física de los componentes en el tablero.  [Ver](https://github.com/Tpskevin13/carpinteria/releases/tag/Topografico) |  Revisado y correcto |
 
 
 > Los `.cad` son archivos de proyecto de CADe SIMU. Las imágenes exportadas (BMP/PNG) permiten que cualquiera vea el esquema sin instalar el programa.
