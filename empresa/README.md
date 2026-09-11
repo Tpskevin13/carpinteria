@@ -1,7 +1,7 @@
 # TK-VA
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tpskevin13/carpinteria/main/referencias/fotos/logo-TKVK.jpg" alt="Logo TKVK Bordado" width="320">
+  <img src="https://raw.githubusercontent.com/Tpskevin13/carpinteria/main/referencias/fotos/Logo-TKVK.jpg" alt="Logo TKVK Bordado" width="320">
 </p>
 
 ## ¿Quiénes somos?
